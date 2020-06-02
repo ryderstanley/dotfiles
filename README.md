@@ -1,3 +1,3 @@
 # dotfiles
-my dotfiles for fedora linux with i3wm running on a thinkpad x220
-![alt text](https://imgur.com/YvvLhf9)
+my dotfiles for arco linux with i3wm running on a thinkpad x220
+https://imgur.com/YvvLhf9
