@@ -43,7 +43,7 @@ set cmdheight=1
 set cursorline
 syntax enable
 set background=dark
-colorscheme solarized
+colorscheme nord
 
 " ------------------------- Syntax Mappings ---------------------------- "
 au BufRead, BufNewFile *.fountain set filetype=fountain "Enabling fountain syntax
