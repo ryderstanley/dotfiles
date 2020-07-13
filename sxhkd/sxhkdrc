@@ -1,0 +1,11 @@
+super + Escape
+    
+    pkill -KILL -u manjaro
+
+super + Return
+
+    konsole
+
+super + q
+
+    bspc node {-c, -k}
